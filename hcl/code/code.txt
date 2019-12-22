@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+ this code test-------modified.
+ this is first change has been commited.
+=======
  this code test
  this is first change has been commited.----->windows modified
+>>>>>>> 0db72a312d06cf0067fce6cac57e06c5c0cc6302
