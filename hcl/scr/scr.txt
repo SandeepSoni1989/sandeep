@@ -1,4 +1,21 @@
 hi ..i am testing git
 myself sandeep soni
 myself amardeep
+<<<<<<< HEAD
 added by linux
+=======
+
+
+added by windows
+>>>>>>> 3e72384ff1b29ce4ad17a1b1917bb2731cca7675
+a
+b
+
+c
+
+d
+
+e
+
+f
+
